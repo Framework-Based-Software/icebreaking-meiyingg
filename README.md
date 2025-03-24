@@ -1,89 +1,91 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
-
-<div align="center" style="font-family: 'Courier New', monospace; background: linear-gradient(45deg, #000000 0%, #1a1a1a 100%); color: #00ff00; padding: 2rem; border: 3px solid #00ff00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.3);">
-
-<!-- 动态标题 -->
-<h1 style="font-size: 3em; text-shadow: 0 0 10px #00ff00; animation: glow 2s ease-in-out infinite;">
-  ⚡ <span style="color: #ff00ff">M</span><span style="color: #00ffff">E</span><span style="color: #ff5500">I</span>YINGG
-</h1>
-
-<!-- 3D旋转图片 -->
-<img src="https://github.com/Framework-Based-Software/icebreaking-meiyingg/blob/profile-upload/identification%20photo(1)(1).jpg" 
-     alt="Hacker Mode" 
-     width="250" 
-     style="border: 3px solid #00ff00; 
-            border-radius: 50%; 
-            box-shadow: 0 0 30px #00ff00; 
-            margin: 20px 0;
-            transition: transform 0.5s;
-            cursor: pointer;"
-     onmouseover="this.style.transform='rotateY(360deg)'"
-     onmouseout="this.style.transform='rotateY(0deg)'">
-
-<!-- 技能进度条 -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 2rem 0;">
-  <div style="background: #111; padding: 1rem; border-radius: 10px; border: 2px solid #00ff00;">
-    <h3>🖥️ Tech Stack</h3>
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github&theme=dark" alt="Skills">
-  </div>
-
-  <div style="background: #111; padding: 1rem; border-radius: 10px; border: 2px solid #ff00ff;">
-    <h3>📊 GitHub Analytics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=meiyingg&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=ff00ff&border_color=00ff00" alt="Stats">
-  </div>
-
-  <div style="background: #111; padding: 1rem; border-radius: 10px; border: 2px solid #00ffff;">
-    <h3>🔥 Streak Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meiyingg&theme=dark&background=000000&border=00ff00&stroke=00ff00&ring=ff00ff&fire=ff5500&currStreakNum=00ff00" alt="Streak">
+### Hi there 👋
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
+    </a>
   </div>
 </div>
 
-<!-- 项目展示 -->
-<div style="text-align: left; margin: 2rem 0;">
-  <h2 style="color: #ff00ff; border-left: 5px solid #00ff00; padding-left: 10px;">🚀 Featured Projects</h2>
-  <ul style="list-style-type: '> '; padding-left: 20px;">
-    <li><a href="#" style="color: #00ffff; text-decoration: none;">Project Neon</a> - AI-powered terminal interface</li>
-    <li><a href="#" style="color: #00ffff; text-decoration: none;">CyberDB</a> - Blockchain-based database system</li>
-  </ul>
-</div>
+  ---
 
-<!-- 联系按钮 -->
-<div style="display: flex; gap: 15px; justify-content: center; margin: 2rem 0;">
-  <a href="mailto:your.email@example.com" style="background: linear-gradient(45deg, #00ff00, #00ffff); 
-              padding: 10px 20px; 
-              border-radius: 25px; 
-              text-decoration: none; 
-              color: black;
-              font-weight: bold;
-              transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.1)'" 
-     onmouseout="this.style.transform='scale(1)'">
-    📧 Hire Me
+
+<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</a>
+
+### Hello World!  I am <b>meiyingg(Aaron Li),a student in the Software Maintenance and Evolution course. <a target="_blank" href="javascript:;"></a></b>
+#### I'm passionate about software development and always eager to learn new technologies. My goal is to become a proficient developer who can build scalable, maintainable, and user-friendly applications.<a target="_blank" href="javascript:;"></a></b>
+
+- :hearts: Passionate about open source software. 
+- :1st_place_medal: My projects are trusted by developers.
+- :sun_with_face: Highlights of my successful endeavors.
+
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/meiyingg/count.svg)th visitor
+---
+
+### my photo
+<p align="center">
+  <img src="https://github.com/Framework-Based-Software/icebreaking-meiyingg/blob/profile-upload/identification%20photo(1)(1).jpg" width="300"/>
+</p>
+
+---
+
+<!-- 贪吃蛇 -->
+![](https://raw.githubusercontent.com/meiyingg/meiyingg/refs/heads/output/github-contribution-grid-snake.svg)
+
+
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
   </a>
-  
-  <a href="https://linkedin.com/in/yourprofile" 
-     style="background: linear-gradient(45deg, #0077b5, #00ff00);
-            padding: 10px 20px;
-            border-radius: 25px;
-            text-decoration: none;
-            color: white;
-            font-weight: bold;
-            transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" 
-     onmouseout="this.style.transform='scale(1)'">
-    💼 LinkedIn
-  </a>
+</p>
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meiyingg&abbreviated=true&color=yellow" />
+<a href="https://github.com/meiyingg"><img src="https://img.shields.io/badge/GitHub-meiyingg-blue?logo=github" /></a>
+<img href="mailto:23096833@siswa.um.edu.my" src="https://img.shields.io/badge/23096833@siswa.um.edu.my-D14836?logo=gmail&logoColor=white" />
+</p>
+
+
+---
+
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=meiyingg&show_icons=true" />
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiyingg&layout=compact" />
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=meiyingg&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- ASCII艺术 -->
-<pre style="color: #00ff00; font-size: 8px;">
-░▒▓██████████████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓██████████████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░       ░▒▓██████▓▒░  
-</pre>
+---
 
-</div>
+<!--END_SECTION:waka-->
+
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
+
+---
+
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
