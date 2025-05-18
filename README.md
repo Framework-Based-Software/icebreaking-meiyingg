@@ -1,10 +1,5 @@
 ### Hi there 👋
-<div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
-  </div>
-</div>
+
 
   ---
 
